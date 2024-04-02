@@ -1,8 +1,11 @@
 import React from 'react'
+import Body from './components/Body'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+        <Body/>
+    </div>
   )
 }
 
